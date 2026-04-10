@@ -13,3 +13,6 @@ def public():
 @app.route("/private")
 def private():
     return jsonify({"message": "Protected endpoint reached"})
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
