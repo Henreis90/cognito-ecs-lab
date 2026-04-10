@@ -1,12 +1,9 @@
-```md
+# AWS Cognito + ECS Authentication Lab
+
 ![AWS](https://img.shields.io/badge/AWS-Security-orange)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple)
 ![Docker](https://img.shields.io/badge/Container-Docker-blue)
 ![Status](https://img.shields.io/badge/Status-Lab-green)
-```
-
-
-# AWS Cognito + ECS Authentication Lab
 
 Laboratório prático para estudo de autenticação segura em microsserviços na AWS utilizando **Amazon Cognito**, **Amazon ECS Fargate**, **API Gateway** e **IAM Roles**, baseado em cenários típicos do exame **AWS Certified Security – Specialty**.
 
